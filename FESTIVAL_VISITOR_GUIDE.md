@@ -32,17 +32,17 @@
 
 ## Arrival Information
 
-- Transit or parking: [One specific instruction]
-- Entrance or meeting location: [One specific location]
+- Transit or parking: Use public transit and arrive at the BMCC campus.
+- Entrance or meeting location: Meet at the entrance to the main campus.
 
 ## Accessibility Information
 
-1. [Specific accessibility provision 1]
-2. [Specific accessibility provision 2]
+1. Wheelchair accessible entrances and elevators will be avaliable for visitors who need them.
+2. Accessible seating areas will be reserved near activities and presentations.
 
 ## Visitor Reminder
 
-[One concise safety or visitor reminder]
+Please keep walkways and accessible entrances clear and follow safety instructions.
 
 ## GitHub Verification
 
@@ -52,7 +52,7 @@
 
 | Checkpoint | Short commit ID | Required message |
 |---|---|---|
-| Personalized guide | [ID] | `docs: personalize festival visitor guide` |
+| Personalized guide | [c9790ca] | `docs: personalize festival visitor guide` |
 | Visitor access information | [ID] | `docs: add visitor access information` |
 | GitHub verification | [ID] | `docs: verify independent homework on GitHub` |
 | Final reflection | [ID] | `docs: complete independent Git reflection` |
