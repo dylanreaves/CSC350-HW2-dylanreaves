@@ -9,7 +9,7 @@
 ## Repository Evidence
 
 - Current branch: main
-- Personal Homework 2 GitHub URL: https://github.com/dylanreaves/CSC-350-HW2.git
+- Personal Homework 2 GitHub URL: https://github.com/dylanreaves/CSC350-HW2-dylanreaves.git
 - Starting `git status`: On branch main nothing to commit, working tree clean
 - Starting preparation commit ID: bd125dd
 
