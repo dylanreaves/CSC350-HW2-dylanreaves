@@ -55,7 +55,7 @@ Verified on GitHub by Dylan Reaves.
 | Personalized guide | [c9790ca] | `docs: personalize festival visitor guide` |
 | Visitor access information | [fed7a30] | `docs: add visitor access information` |
 | GitHub verification | [fbb216a] | `docs: verify independent homework on GitHub` |
-| Final reflection | [ID] | `docs: complete independent Git reflection` |
+| Final reflection | [47e8868] | `docs: complete independent Git reflection` |
 
 ## Individual Reflection
 
