@@ -53,29 +53,29 @@ Verified on GitHub by Dylan Reaves.
 | Checkpoint | Short commit ID | Required message |
 |---|---|---|
 | Personalized guide | [c9790ca] | `docs: personalize festival visitor guide` |
-| Visitor access information | [ID] | `docs: add visitor access information` |
-| GitHub verification | [ID] | `docs: verify independent homework on GitHub` |
+| Visitor access information | [fed7a30] | `docs: add visitor access information` |
+| GitHub verification | [fbb216a] | `docs: verify independent homework on GitHub` |
 | Final reflection | [ID] | `docs: complete independent Git reflection` |
 
 ## Individual Reflection
 
 1. What is the difference between saving a file and committing it?
 
-   [Your answer]
+   Saving a file only saves it on the working tree. Commiting a file saves a snapshot of that file into the git history so it can be accessed at a later date.
 
 2. What is the difference between `git diff` and `git diff --staged`?
 
-   [Your answer]
+   git diff shows current changes between files on the working tree, while git diff --staged shows only the changes between staged files.
 
 3. Why did the GitHub verification sentence not appear locally before `git pull`?
 
-   [Your answer]
+   Because the changes were made on github they were not replicated to my local machine. Since I made a new commit I had to then pull those changes to synchronize my local working tree with the github remote.
 
 4. What did `-u` accomplish in `git push -u origin main`?
 
-   [Your answer]
+   The -u sets the branch as the upstream branch for my local main branch. This allows git push and git pull to know which remote branch to use without needing to specify origin main.
 
 5. What evidence proves that the local and GitHub repositories are synchronized at the end?
 
-   [Your answer]
+   git status will show that my local branch is up to date with the main branch and the working tree is clean. I can also compare the commit history on github and my local to see if they match.
 
