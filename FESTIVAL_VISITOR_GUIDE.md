@@ -2,33 +2,33 @@
 
 ## Student Information
 
-- Name: [Your name]
-- Course and section: [Course and section]
-- Date: [Date]
+- Name: Dylan Reaves
+- Course and section: CSC 350H Section: 1300
+- Date: 9/12/2026
 
 ## Repository Evidence
 
-- Current branch: [Branch name]
-- Personal Homework 2 GitHub URL: [Repository URL]
-- Starting `git status`: [Describe the result]
-- Starting preparation commit ID: [Short ID]
+- Current branch: main
+- Personal Homework 2 GitHub URL: https://github.com/dylanreaves/CSC-350-HW2.git
+- Starting `git status`: On branch main nothing to commit, working tree clean
+- Starting preparation commit ID: bd125dd
 
 ## Festival Identity
 
-- Festival name: [Original festival name]
-- Location: [City, venue, or campus location]
-- Intended audience: [Audience]
-- Theme: [One-sentence theme]
+- Festival name: Video Game Festival
+- Location: BMCC Campus, New York
+- Intended audience: Students
+- Theme: Fun, Chill, Relaxed
 
 ## Prediction Before the First Commit
 
 1. Where does the saved change currently live?
 
-   [Your answer]
+   Working tree
 
 2. Has it been staged or committed?
 
-   [Your answer]
+   No, it has not been staged or commited
 
 ## Arrival Information
 
