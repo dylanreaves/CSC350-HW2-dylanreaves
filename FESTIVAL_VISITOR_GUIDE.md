@@ -46,7 +46,7 @@ Please keep walkways and accessible entrances clear and follow safety instructio
 
 ## GitHub Verification
 
-[Replace this line on GitHub—not in VS Code]
+Verified on GitHub by Dylan Reaves.
 
 ## Commit Evidence
 
